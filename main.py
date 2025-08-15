@@ -22,7 +22,7 @@ from pymongo.errors import DuplicateKeyError
 logging.basicConfig(format="%(asctime)s %(levelname)s:%(name)s: %(message)s", level=logging.INFO)
 log = logging.getLogger("upi-mongo-bot")
 
-TOKEN = "8352423948:AAEP_WHdxNGziUabzMwO9_YiEp24_d0XYVk"
+TOKEN = "7303696543:AAHLYJyc-dD4OJOilv2dlgAspyYGgWAmNYQ"
 ADMIN_IDS = [7223414109, 6053105336, 7381642564]
 
 STORAGE_CHANNEL_ID = -1002724249292
